@@ -58,10 +58,11 @@ body {
 .queries {
 }
 #illustration {
-  background-color: hsl(277, 64%, 61%);
+  color: hsl(277, 64%, 61%);
   width: 50%;
   height: 446px;
   background: url("./images/image-header-desktop.jpg");
+  opacity: 0.5;
   border-radius: 0 10px 10px 0;
 }
 .attribution {
